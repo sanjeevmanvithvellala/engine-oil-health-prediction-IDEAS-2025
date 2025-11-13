@@ -9,7 +9,7 @@ at ISI Kolkata under mentorship of **Prof. Sandip Bhattacharyya**.
 - Sanjeev Manvith Vellala  
 - Kottu Shyam Sailesh  
 - Vamsi Raghav Talapaka
-- 
+
 ## 🧪 Methods
 - Models: Logistic Regression, Decision Tree, Random Forest, KNN, SVM, Gradient Boosting, XGBoost,
   Keras Sequential (NN), Stacking Ensemble  
