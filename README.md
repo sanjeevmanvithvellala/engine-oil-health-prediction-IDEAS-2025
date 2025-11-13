@@ -1,1 +1,32 @@
-# engine-oil-health-prediction-IDEAS-2025
+# Engine Oil Health Prediction (IDEAS – Autumn 2025)
+
+Predicting engine oil health using Machine Learning and Deep Learning on sensor-derived features
+(RPM, oil temperature, pressures, and degradation indices). Built during the IDEAS Internship 2025
+at ISI Kolkata under mentorship of **Prof. Sandip Bhattacharyya**.
+
+## 👥 Team
+- Baliji Niroop  
+- Sanjeev Manvith Vellala  
+- Shyam Sailesh  
+- Vamsi Raghav
+
+## 🧪 Methods
+- Models: Logistic Regression, Decision Tree, Random Forest, KNN, SVM, Gradient Boosting, XGBoost,
+  Keras Sequential (NN), Stacking Ensemble  
+- Class imbalance: SMOTE; Scaling: StandardScaler; Explainability: SHAP
+
+## 📂 Repository Map
+- `data/` – (no confidential raw data; include samples or synthetic only)
+- `notebooks/` – exploration, cleaning, modeling, SHAP
+- `src/` – reusable pipeline code
+- `models/` – serialized artifacts (if allowed)
+- `reports/` – final report & slides (non-confidential)
+- `docs/` – design notes and IPR policy
+
+## 🔒 Intellectual Property & License
+This work was developed by **Baliji Niroop, Sanjeev Manvith Vellala, Shyam Sailesh, and Vamsi Raghav**
+during the IDEAS Internship 2025 at ISI Kolkata under **Prof. Sandip Bhattacharyya**.
+All materials are protected under Intellectual Property Rights (IPR).  
+Unauthorized reuse or redistribution without citation/permission is prohibited.
+
+© 2025 The Authors. Released under the MIT License (see `LICENSE`).
