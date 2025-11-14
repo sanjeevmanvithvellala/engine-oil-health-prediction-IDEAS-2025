@@ -2,7 +2,7 @@
 
 Predicting engine oil health using Machine Learning and Deep Learning on sensor-derived features
 (RPM, oil temperature, pressures, and degradation indices). Built during the IDEAS Internship 2025
-at ISI Kolkata under mentorship of **Prof. Sandip Bhattacharyya**.
+at ISI Kolkata under mentorship of **Sandip Bhattacharyya**.
 
 ## 👥 Team
 - Baliji Niroop  
