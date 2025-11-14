@@ -27,7 +27,7 @@ at ISI Kolkata under mentorship of **Sandip Bhattacharyya**.
 
 ## 🔒 Intellectual Property & License
 This work was developed by **Baliji Niroop, Sanjeev Manvith Vellala, Kottu Shyam Sailesh, and Vamsi Raghav Talapaka**
-during the IDEAS Internship 2025 at ISI Kolkata under **Prof. Sandip Bhattacharyya**.
+during the IDEAS Internship 2025 at ISI Kolkata under **Sandip Bhattacharyya**.
 All materials are protected under Intellectual Property Rights (IPR).  
 Unauthorized reuse or redistribution without citation/permission is prohibited.
 
