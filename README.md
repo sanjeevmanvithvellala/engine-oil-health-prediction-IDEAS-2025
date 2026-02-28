@@ -77,17 +77,6 @@ evaluation_report.py
 model_comparison.py
 ```
 
----
-
-## ⚙️ How to Run
-
-```bash
-pip install -r requirements.txt
-python evaluation_report.py
-python model_comparison.py
-```
-
----
 
 ## 🚘 Automotive Significance
 
